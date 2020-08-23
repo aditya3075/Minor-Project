@@ -47,4 +47,4 @@ passing these images through a convolutional artificial neural network to get th
 the outputs and plug them into different RNN frameworks and look for probable solutions.
 
  
-Repository Link: - https://github.com/Gauravsharma-20/Minor-Project
+
